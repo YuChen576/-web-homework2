@@ -2,7 +2,7 @@
 
 ###  Screenshots 頁面截圖
 
-#### 👀
+#### 👀LINK:
 
 ![](public/screenshots/screenshot1.jpg)
 
